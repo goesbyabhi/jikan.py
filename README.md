@@ -9,13 +9,13 @@ Made for discord bots, telegram bots, etc.
 ```shell
 git clone https://github.com/goesbyabhi/MAL-wrapper.git
 ```
-and pasting it in the terminal/command prompt/powershell (Make sure to have `Git` installed.)
-2) Once done, change the directory and open the cloned repo folder in command prompt/terminal/powershell.
+and pasting it in the terminal/command prompt/powershell (Make sure to have `Git` installed.) <br>
+2) Once done, change the directory and open the cloned repo folder in command prompt/terminal/powershell. <br>
 3) Type in the terminal
 ```shell
 pip install -r requirements.txt
 ```
-4) And you're done
+4) And you're done!
 
 ## Functionalities to add:
 - [x] Fetch anime data with the help of anime id <br>
