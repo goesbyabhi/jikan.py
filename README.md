@@ -5,9 +5,16 @@ This project makes use of the [Jikan API](https://jikan.moe/). <br>
 Made for discord bots, telegram bots, etc.
 
 ## How to setup this project
-1) [Clone](https://github.com/goesbyabhi/MAL-wrapper.git) the project by copying this command <br> `git clone https://github.com/goesbyabhi/MAL-wrapper.git` <br>and pasting it in the terminal/command prompt/powershell (Make sure to have `Git` installed.)
+1) [Clone](https://github.com/goesbyabhi/MAL-wrapper.git) the project by copying this command 
+```shell
+git clone https://github.com/goesbyabhi/MAL-wrapper.git
+```
+and pasting it in the terminal/command prompt/powershell (Make sure to have `Git` installed.)
 2) Once done, change the directory and open the cloned repo folder in command prompt/terminal/powershell.
-3) Type in the terminal `pip install -r requirements.txt`
+3) Type in the terminal
+```shell
+pip install -r requirements.txt
+```
 4) And you're done
 
 ## Functionalities to add:
