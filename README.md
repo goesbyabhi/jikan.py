@@ -10,8 +10,8 @@ Made for discord bots, telegram bots, etc.
 git clone https://github.com/goesbyabhi/MAL-wrapper.git
 ```
 and pasting it in the terminal/command prompt/powershell (Make sure to have `Git` installed.) <br>
-2) Once done, change the directory and open the cloned repo folder in command prompt/terminal/powershell. <br>
-3) Type in the terminal
+ 2) Once done, change the directory and open the cloned repo folder in command prompt/terminal/powershell. <br>
+ 3) Type in the terminal
 ```shell
 pip install -r requirements.txt
 ```
@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 ## Functionalities to add:
 - [x] Fetch anime data with the help of anime id <br>
+- [x] Fetch anime datas with the help of keywords <br>
 - [ ] Fetch manga data with the help of manga id <br>
 - [ ] Fetch character data with the help of character id <br>
 - [ ] Fetch studio data <br>
